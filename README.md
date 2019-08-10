@@ -30,6 +30,8 @@ Some command used in Dockerfile:
 
 1. Good explanation about docker image vs container
 
+      https://nickjanetakis.com/blog/differences-between-a-dockerfile-docker-image-and-docker-container
+      
       https://stackoverflow.com/questions/23735149/what-is-the-difference-between-a-docker-image-and-a-container
   
 2. Dockerfile command cheat sheet
