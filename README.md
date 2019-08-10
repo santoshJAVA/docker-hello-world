@@ -6,6 +6,8 @@ Simple hello world app with basic docker and python
 
 ```docker run -p 4000:80 santoshsharma8150/get-started:part2```
 
+after this, hit ```localhost:4000``` on browser
+
 
 **Dockerfile**
 
